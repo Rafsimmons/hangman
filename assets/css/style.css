@@ -1,17 +1,22 @@
-img {
-    width: 100%;
-    height: 350px;
+.jumbotron {
+    font-family: 'Courgette', cursive;
+    text-align: center;
 }
-
-body {
-    background-color: black;
-}
-
 
 .col-md-6 {
-    height:500px;
+    height:600px;
     border-style: solid;
     border-width: thin;
-    border-color: white;
-    color: white;
+    border-color:black;
+    color: black;
+}
+
+h2 {
+    text-align: bottom;
+}
+
+.row {
+    font-family: 'Courgette', cursive;
+    font-size: 30px;
+    height: 150px;
 }
